@@ -1,3 +1,5 @@
 dia 1 hoy empeze a aprender "git."
 
 dia 2 segundo commit
+
+dia 4 el 3 no existe que es eso
